@@ -6,6 +6,7 @@ While running, this script flags any findings in Red for non-compliance, Green f
 For systems acting as Domain Controllers, checks are complete at the start of each STIG Finding check to check whether the system is a Domain Controller or not as some checks are not applicable to machine not in use as Domain Controllers.
 
 ## How To Run
+### Run as Administrator!
 .\Windows-Server-2022-STIG-Hardening-Script.ps1
 
 ## Credits
